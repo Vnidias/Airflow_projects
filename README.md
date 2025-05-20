@@ -50,5 +50,10 @@ A simple, self-contained DAG demonstrating how to fetch historical stock data fr
    ```bash
    astro dev start
 
+## Project 2B - Airflow Yahoo Finance Pipeline Postgres Version
 
-last update 12/05/2025
+- Uses the **Yahoo Finance API** to fetch real OHLC (Open/High/Low/Close) stock data
+- Exports results directly to **POSTGRESS**
+- Works with Astro CLI or Docker Compose
+
+last update 20/05/2025
